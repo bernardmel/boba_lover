@@ -1,2 +1,7 @@
 #!/usr/bin/env ruby
 
+
+require_relative '../lib/boba_lover'
+
+
+CLI.new.start
